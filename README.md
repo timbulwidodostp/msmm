@@ -1,6 +1,8 @@
 # msmm
 Multiplicative structural mean model (MSMM) of Robins (1989) Use msmm (OneSampleMR) With R Software
 
+https://www.youtube.com/watch?v=_hLxuq1oKEM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
